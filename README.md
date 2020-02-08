@@ -7,11 +7,11 @@
 # Commands:
 Send PM:
 
-/pm <id> <message>
+/pm (id) (message)
   
 Fast Reply:
 
-/r <message>
+/r (message)
   
 Block PM:
 
