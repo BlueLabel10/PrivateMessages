@@ -5,11 +5,18 @@
 - admin or superadmin can follow the private messages by a command.
 
 # Commands:
-Send PM:\n
+Send PM:
+
 /pm <id> <message>
+  
 Fast Reply:
+
 /r <message>
+  
 Block PM:
+
 /block
+
 *Admins* Spy PMs:
+
 /spy
