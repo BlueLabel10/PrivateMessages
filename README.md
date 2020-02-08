@@ -5,7 +5,7 @@
 - admin or superadmin can follow the private messages by a command.
 
 # Commands:
-Send PM:
+Send PM:\n
 /pm <id> <message>
 Fast Reply:
 /r <message>
