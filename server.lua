@@ -1,3 +1,7 @@
+ESX = nil
+
+TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
+
 local LastPlayer, WantDM, WantSpy = {}, {}, {}
 
 RegisterCommand('pm', function(source, args, user)
